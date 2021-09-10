@@ -25,3 +25,6 @@ data processing: Nea
 1. daynight - D = Daytime, N = Nighttim
 1. frp - (Target Variable) Fire Radiative Power: Depicts the pixel-integrated re
 radiative power in MW (megawatts)
+
+
+#### Have done this as a assignment.
